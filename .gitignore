@@ -1,14 +1,2 @@
-# Dependencies
 node_modules/
-package-lock.json  # Optional, but Render auto install karega
-
-# WhatsApp session files (secret, mat push kar)
 .wwebjs_auth/
-
-# Logs and temp
-*.log
-.env  # Agar koi secrets ho
-
-# OS files
-.DS_Store
-Thumbs.db
